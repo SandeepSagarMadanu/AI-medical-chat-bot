@@ -1,9 +1,12 @@
-https://github.com/user-attachments/assets/c09d695a-6802-4fb6-8d66-5778cc09e44d
-
-
 # 🧠 Multimodal Image Query System with GROQ LLM API
 
 This project is an AI-powered web and script-based system that allows users to upload an image and ask questions about its contents. It uses Meta's LLaMA models hosted on the [GROQ](https://groq.com/) API, capable of processing both **textual and visual** information.
+
+
+https://github.com/user-attachments/assets/c09d695a-6802-4fb6-8d66-5778cc09e44d
+
+
+
 
 ## 🚀 Features
 
